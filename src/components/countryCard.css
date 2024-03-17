@@ -1,0 +1,29 @@
+.card-container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 5px;
+}
+
+.card-container img {
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+    width: 400px; /* Set the width of the image */
+    height: 250px; /* Set the height of the image */
+    border-radius: 20px;
+    box-shadow: 2px;
+}
+
+.card-container h3 {
+    font-size: 2em; /* Increase font size for country name */
+    margin-bottom: 10px; /* Add some space below the country name */
+    text-align: center; /* Center align text */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+}
+
+.card-container h4{ 
+    padding: 2px;
+    font-size: 1.5em;
+}

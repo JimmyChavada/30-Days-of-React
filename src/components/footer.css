@@ -1,0 +1,10 @@
+.footer { 
+    position: fixed;
+    left: 0;
+    bottom: 0; 
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue; 
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}

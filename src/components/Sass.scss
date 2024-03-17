@@ -1,0 +1,33 @@
+.sass-wrapper {
+    background-color: aliceblue;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column; /* Display children in a column */
+    align-items: center; /* Align children horizontally at the center */
+    justify-content: center; /* Align children vertically at the center */
+}
+
+.sass-wrapper h1 {
+    color: blue;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    &:hover {
+        color: red;
+    }
+}
+
+.sass-wrapper h3 { 
+    padding: 20px;
+    font-size: 2em;
+}
+
+.sass-wrapper button {
+    padding: 20px;
+    margin-top: 20px; /* Add margin to separate button from the text */
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 2px;
+}

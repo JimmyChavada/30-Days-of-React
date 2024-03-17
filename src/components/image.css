@@ -1,0 +1,17 @@
+.card { 
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 50px;
+    box-shadow: 0.5px 0.5px 0.5px;
+    margin-top: 20px;
+    
+}
+
+.image-card { 
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+
+    width: 100%;
+    text-align: center;
+}

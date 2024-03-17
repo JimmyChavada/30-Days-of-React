@@ -1,0 +1,14 @@
+.number-card { 
+    background-color: aliceblue;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.number-card h1 { 
+    text-align: center;
+    padding: 5px;
+}
+
+.number-card p { 
+    text-align: center;
+}

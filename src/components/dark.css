@@ -1,0 +1,34 @@
+body { 
+    background-color: white;
+    color: black;
+}
+
+.darkmode-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Align items horizontally at the center */
+    justify-content: center; /* Align items vertically at the center */
+    padding: 20px;
+    padding-bottom: 1000px;
+}
+
+.darkmode-wrapper h1 { 
+    margin: 20px;
+}
+
+.darkmode-wrapper p { 
+    margin: 10px;
+}
+
+.darkmode-wrapper h4 { 
+    margin: 10px;
+}
+
+.darkmode-wrapper button { 
+    width: 50%;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}

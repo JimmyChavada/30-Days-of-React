@@ -1,0 +1,20 @@
+.profile-card { 
+    background-color: aliceblue;
+    padding: 20px;
+    box-shadow: 1px 1px;
+    border-radius: 20px;
+}
+
+.tech-item-container {
+    display: inline-block; /* Change display to inline-block */
+    background-color: lightgray; /* Set the background color for the container */
+    padding: 10px; /* Add padding for space between the content and the border */
+    margin-bottom: 10px; /* Add margin bottom to create space between each tech item */
+    margin: 10px;
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box-shadow for a subtle shadow effect */
+}
+
+.tech-item {
+    margin: 0; /* Reset margin for the tech item */
+}
